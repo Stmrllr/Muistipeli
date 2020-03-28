@@ -1,0 +1,24 @@
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\bin\Debug\Muistipeli.exe.config
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\bin\Debug\Muistipeli.exe
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\bin\Debug\Muistipeli.pdb
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Properties.Resources.resources
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csproj.GenerateResource.cache
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.exe
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.pdb
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Alkuvalikko.resources
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Pelaajatilastot.resources
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Pelialusta.resources
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csprojAssemblyReference.cache
+C:\Users\MP\source\repos\Muistipeli\Muistipeli\obj\Debug\Muistipeli.PoistaPelaajia.resources
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\bin\Debug\Muistipeli.exe.config
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\bin\Debug\Muistipeli.exe
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\bin\Debug\Muistipeli.pdb
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csprojAssemblyReference.cache
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Alkuvalikko.resources
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Pelaajatilastot.resources
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Pelialusta.resources
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\obj\Debug\Muistipeli.PoistaPelaajia.resources
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\obj\Debug\Muistipeli.Properties.Resources.resources
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\obj\Debug\Muistipeli.csproj.GenerateResource.cache
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\obj\Debug\Muistipeli.exe
+C:\Users\MP\Desktop\Savonia\1 Syksy\ETA7100 Ohjelmointi II Käyttöliittymäohjelmointi\Lopputyö\Muistipeli\Muistipeli\obj\Debug\Muistipeli.pdb
