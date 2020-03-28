@@ -1,4 +1,4 @@
-# Stmrllr-Muistipeli
+# Muistipeli
 
 Käyttöliittymäohjelmointi -kurssin lopputyö. Ensimmäinen oma projekti.
 
